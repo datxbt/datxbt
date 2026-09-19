@@ -1,4 +1,4 @@
-## Thành Đạt
+## Trần Thành Đạt
 
 Quantitative researcher in Hanoi. I build tick-level research infrastructure and
 test trading hypotheses against it — mostly to find out that they do not work,
