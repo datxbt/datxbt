@@ -1,8 +1,7 @@
 ## Trần Thành Đạt
 
-Quantitative researcher in Hanoi. I build tick-level research infrastructure and
-test trading hypotheses against it — mostly to find out that they do not work,
-which is the part I write down.
+Quantitative researcher in Hanoi. I mainly work with research infrastructure and
+test trading hypotheses.
 
 Most of what I publish is a record rather than a product.
 
